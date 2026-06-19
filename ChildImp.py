@@ -13,3 +13,6 @@ class ChildImpl(Calculator):
 
 obj = ChildImpl()
 print(obj.getCompleteData())
+
+obj = ChildImpl()
+print(obj.getCompleteData())
